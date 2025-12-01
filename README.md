@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image Dec 1, 2025, 04_27_31 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Dec 1, 2025, 04_27_31 PM" src="https://github.com/user-attachments/assets/23f583e2-18e1-45bd-899c-bea2fa67c655" />
 
 # Multi-Agent AI Pipeline Using Google Gemini — Research, Analysis, Writing & Evaluation System
 
