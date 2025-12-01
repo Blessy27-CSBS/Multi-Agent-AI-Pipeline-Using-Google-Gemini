@@ -1,3 +1,5 @@
+![Uploading ChatGPT Image Dec 1, 2025, 04_27_31 PM.png…]()
+
 # Multi-Agent AI Pipeline Using Google Gemini — Research, Analysis, Writing & Evaluation System
 
 **Capstone project (Google Agents Intensive)** — This notebook implements a complete multi-agent pipeline that automates web research, analysis, long-form report writing, and evaluation. The system demonstrates key concepts from the Agents course: multi-agent coordination, tools, sessions & memory, long-running operations (pause/resume), observability, and LLM integration (Google Gemini 2.5).
